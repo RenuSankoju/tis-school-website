@@ -1,16 +1,34 @@
-# React + Vite
+# TIS - Tulas International School Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Official website for Tulas International School, Dehradun - No.1 Co-Ed Boarding School in Dehradun.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** https://beautiful-narwhal-93c830.netlify.app
+📂 **GitHub:** https://github.com/RenuSankoju/tis-school-website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📖 About The Project
+This is a modern, responsive college project website built for Tulas International School. The website showcases the school's infrastructure, academics, admissions, and campus life with a clean, professional UI.
 
-## React Compiler
+This project was developed as part of a college assignment to demonstrate front-end development skills using modern web technologies.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
+- Fully Responsive Design (Mobile, Tablet, Desktop)
+- Dark Mode / Light Mode Toggle
+- Modern Hero Section with Animations
+- Academic Programs Showcase
+- Campus Facilities & Infrastructure
+- Admission Information
+- Contact Form
+- Smooth Scrolling & Interactive UI
 
-## Expanding the Oxlint configuration
+## 🛠️ Built With
+- **React.js** - Frontend library
+- **Vite** - Build tool & dev server
+- **Tailwind CSS** - Styling
+- **JavaScript (ES6+)**
+- **HTML5 & CSS3**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. Clone the repository
